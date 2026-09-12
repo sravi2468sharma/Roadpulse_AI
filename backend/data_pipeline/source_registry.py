@@ -16,7 +16,7 @@ def detect_role(columns: list[str], filename: str) -> str:
     if 'mode of transport' in headers or 'road user' in headers or 'vehicle type' in headers:
         return 'mode_of_transport'
     if 'cause' in headers or 'reason' in headers:
-        return 'cause_analysis'
+        return 'cause_wise'
     if any(str(year) in columns for year in range(2000, 2031)) and ('states/uts' in headers or 'state' in headers):
         return 'historical_time_series'
     if 'accidents' in headers and any(str(year) in headers for year in range(2000, 2031)):
@@ -57,8 +57,10 @@ def source_profile(path: Path) -> Dict[str, Any]:
         'missing_fields': sorted(set(aliases) - set(recognized)),
         'source_type': 'official_csv',
         'source_file': path.name,
-        'source_url': 'https://www.data.gov.in/catalog/road-accidents-india-2019',
-        'source_granularity': 'State/UT' if 'states/uts' in headers or 'state' in headers else 'unknown',
+        'source_url': 'https://www.data.gov.in/catalog/accidental-deaths-suicides-india-adsi-2023' if role in {'mode_of_transport', 'cause_wise'} else 'https://www.data.gov.in/catalog/road-accidents-india-2019',
+        'source_granularity': 'State/UT' if 'states/uts' in headers or 'state' in headers else 'All-India',
+        'scope': 'India' if 'states/uts' not in headers and 'state' not in headers else 'State/UT',
+        'year': 2023 if role in {'mode_of_transport', 'cause_wise'} else (years[-1] if years else None),
     }
 
 

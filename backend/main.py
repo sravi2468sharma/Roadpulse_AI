@@ -8,6 +8,7 @@ from backend.config import settings
 from backend.services.data_service import data_service
 from backend.services.mvp_service import mvp_service
 from backend.services.official_service import official_service
+from backend.services.national_service import national_service
 
 app = FastAPI(title=settings.APP_TITLE, description=settings.TAGLINE, version=settings.VERSION)
 app.add_middleware(CORSMiddleware, allow_origins=settings.ALLOWED_ORIGINS, allow_credentials=True, allow_methods=["*"], allow_headers=["*"])
@@ -43,6 +44,16 @@ def data_status():
 def data_sources():
     from backend.data_pipeline.source_registry import discover_sources, source_profile
     return [{**source_profile(path), 'status': 'processed' if data_service.status().get('processed') else 'available'} for path in discover_sources()]
+
+
+@app.get('/api/national/causes')
+def national_causes():
+    return national_service.causes()
+
+
+@app.get('/api/national/vulnerability')
+def national_vulnerability():
+    return national_service.vulnerability()
 
 
 @app.get("/api/dashboard/summary")

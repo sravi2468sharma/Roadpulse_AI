@@ -1,4 +1,80 @@
 {
+  "NCRB_ADSI_2023_Table_1A.3_2.csv": {
+    "filename": "NCRB_ADSI_2023_Table_1A.3_2.csv",
+    "rows": 17,
+    "columns": [
+      "Sl. No.",
+      "Mode of Transport",
+      "Number of Persons Travelling in the Involved Mode of Transport - Injured",
+      "Number of Persons Travelling in the Involved Mode of Transport - Died",
+      "Percentage Share of Injured",
+      "Percentage Share of Deaths"
+    ],
+    "detected_years": [],
+    "year_range": [],
+    "likely_dataset_category": "mode_of_transport",
+    "recognized_fields": [
+      "fatalities",
+      "road_user"
+    ],
+    "missing_fields": [
+      "accidents",
+      "cause",
+      "city",
+      "injuries",
+      "road_category",
+      "state",
+      "year"
+    ],
+    "source_type": "official_csv",
+    "source_file": "NCRB_ADSI_2023_Table_1A.3_2.csv",
+    "source_url": "https://www.data.gov.in/catalog/accidental-deaths-suicides-india-adsi-2023",
+    "source_granularity": "All-India",
+    "scope": "India",
+    "year": 2023,
+    "status": "processed"
+  },
+  "NCRB_ADSI_2023_Table_1A.8.csv": {
+    "filename": "NCRB_ADSI_2023_Table_1A.8.csv",
+    "rows": 16,
+    "columns": [
+      "Sl. No.",
+      "Cause",
+      "Number of Cases",
+      "Persons Injured - Male",
+      "Persons Injured - Female",
+      "Persons Injured - Transgender",
+      "Persons Injured - Total",
+      "Persons Died - Male",
+      "Persons Died - Female",
+      "Persons Died - Transgender",
+      "Persons Died - Total",
+      "Percentage Share (Cases)"
+    ],
+    "detected_years": [],
+    "year_range": [],
+    "likely_dataset_category": "cause_wise",
+    "recognized_fields": [
+      "injuries",
+      "cause"
+    ],
+    "missing_fields": [
+      "accidents",
+      "city",
+      "fatalities",
+      "road_category",
+      "road_user",
+      "state",
+      "year"
+    ],
+    "source_type": "official_csv",
+    "source_file": "NCRB_ADSI_2023_Table_1A.8.csv",
+    "source_url": "https://www.data.gov.in/catalog/accidental-deaths-suicides-india-adsi-2023",
+    "source_granularity": "All-India",
+    "scope": "India",
+    "year": 2023,
+    "status": "processed"
+  },
   "RA2019_A2.csv": {
     "filename": "RA2019_A2.csv",
     "rows": 37,
@@ -53,7 +129,9 @@
     "source_file": "RA2019_A2.csv",
     "source_url": "https://www.data.gov.in/catalog/road-accidents-india-2019",
     "source_granularity": "State/UT",
-    "status": "inspected"
+    "scope": "State/UT",
+    "year": 2019,
+    "status": "processed"
   },
   "RA2019_A49.csv": {
     "filename": "RA2019_A49.csv",
@@ -118,7 +196,9 @@
     "source_file": "RA2019_A49.csv",
     "source_url": "https://www.data.gov.in/catalog/road-accidents-india-2019",
     "source_granularity": "State/UT",
-    "status": "inspected"
+    "scope": "State/UT",
+    "year": null,
+    "status": "processed"
   },
   "Total_No_Road_Accidents_in_India_2003-11_1.csv": {
     "filename": "Total_No_Road_Accidents_in_India_2003-11_1.csv",
@@ -169,6 +249,8 @@
     "source_file": "Total_No_Road_Accidents_in_India_2003-11_1.csv",
     "source_url": "https://www.data.gov.in/catalog/road-accidents-india-2019",
     "source_granularity": "State/UT",
-    "status": "inspected"
+    "scope": "State/UT",
+    "year": 2011,
+    "status": "processed"
   }
 }

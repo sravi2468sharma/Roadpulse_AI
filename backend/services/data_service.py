@@ -50,7 +50,7 @@ class DataService:
             self._df = pd.read_csv(processed)
             self._mode = 'official'
             self._current_file = processed
-            self._status = {'status': 'ready', 'mode': 'official', 'data': 'OFFICIAL', 'records': len(self._df), 'years': sorted(self._df['year'].dropna().astype(int).unique().tolist()), 'regions': int(self._df['state'].nunique()), 'sources_loaded': raw_files, 'source_count': len(raw_files), 'processed': True}
+            self._status = {'status': 'ready', 'mode': 'official', 'data': 'OFFICIAL', 'records': len(self._df), 'years': sorted(self._df['year'].dropna().astype(int).unique().tolist()), 'regions': int(self._df['state'].nunique()), 'sources_loaded': raw_files, 'source_count': len(raw_files), 'processed': True, 'cause_data': os.path.exists(os.path.join(settings.PROCESSED_DATA_DIR, 'cause_analysis.csv')), 'vulnerability_data': os.path.exists(os.path.join(settings.PROCESSED_DATA_DIR, 'vulnerability_analysis.csv'))}
         elif raw_files:
             self._mode = 'official_pending_processing'
             self._status = {'status': 'not_processed', 'mode': self._mode, 'message': 'Official CSV files found. Run python -m backend.data_pipeline.process_data.', 'sources_loaded': raw_files, 'source_count': len(raw_files), 'processed': False}

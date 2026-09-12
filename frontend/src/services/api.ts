@@ -29,5 +29,7 @@ export const getPrediction = (id) => request(`/api/locations/${id}/prediction`);
 export const getInterventions = (id) => request(`/api/locations/${id}/interventions`);
 export const getActionPlan = () => request('/api/action-plan');
 export const getModelMetrics = () => request('/api/model/metrics');
+export const getNationalCauses = () => request('/api/national/causes');
+export const getNationalVulnerability = () => request('/api/national/vulnerability');
 export const simulateInterventions = (location_id, intervention_ids) => request('/api/simulate', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ location_id, intervention_ids }) });
 export const uploadData = (file) => { const body = new FormData(); body.append('file', file); return request('/api/data/upload', { method: 'POST', body }); };
