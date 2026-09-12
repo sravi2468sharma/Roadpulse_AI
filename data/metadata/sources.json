@@ -1,0 +1,29 @@
+[
+  {
+    "id": "morth_accidents",
+    "name": "State/UT-wise Total Number of Road Accidents in India from 2016 to 2019",
+    "organization": "Ministry of Road Transport and Highways",
+    "portal": "Open Government Data Platform India",
+    "url": "https://www.data.gov.in/resource/stateut-wise-total-number-road-accidents-india-2016-2019",
+    "granularity": "State/UT",
+    "status": "official"
+  },
+  {
+    "id": "road_accidents_2019",
+    "name": "Road Accidents in India 2019",
+    "organization": "Ministry of Road Transport and Highways",
+    "portal": "Open Government Data Platform India",
+    "url": "https://www.data.gov.in/catalog/road-accidents-india-2019",
+    "granularity": "Annual; resource-dependent",
+    "status": "official"
+  },
+  {
+    "id": "adsi_2023",
+    "name": "Accidental Deaths & Suicides in India (ADSI) 2023",
+    "organization": "National Crime Records Bureau",
+    "portal": "Open Government Data Platform India",
+    "url": "https://www.data.gov.in/catalog/accidental-deaths-suicides-india-adsi-2023",
+    "granularity": "State/UT or city; resource-dependent",
+    "status": "official"
+  }
+]

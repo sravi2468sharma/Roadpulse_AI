@@ -1,0 +1,21 @@
+{
+  "rows": 1037,
+  "columns": [
+    "state",
+    "year",
+    "accidents",
+    "source_file",
+    "source_type",
+    "source_name",
+    "source_url",
+    "source_year",
+    "source_granularity"
+  ],
+  "negative_values": {
+    "accidents": 0
+  },
+  "invalid_years": 0,
+  "missing_state": 0,
+  "duplicate_rows": 0,
+  "valid": true
+}

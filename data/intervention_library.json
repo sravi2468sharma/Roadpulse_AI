@@ -1,0 +1,8 @@
+[
+  {"id":"street_lighting","name":"Improve Street Lighting","factors":["poor lighting","night risk","visibility"],"effectiveness":0.25,"cost":"Medium","difficulty":"Medium","timeframe":"1-3 months","confidence":"Prototype scenario estimate"},
+  {"id":"speed_enforcement","name":"Speed Enforcement Camera","factors":["overspeeding","traffic","behavioral risk"],"effectiveness":0.28,"cost":"High","difficulty":"Medium","timeframe":"3-6 months","confidence":"Prototype scenario estimate"},
+  {"id":"road_repair","name":"Resurface and Improve Lane Markings","factors":["potholes","poor road condition"],"effectiveness":0.20,"cost":"High","difficulty":"High","timeframe":"3-6 months","confidence":"Prototype scenario estimate"},
+  {"id":"pedestrian_crossing","name":"Pedestrian Crossing and Refuge Island","factors":["pedestrian exposure","junction risk"],"effectiveness":0.24,"cost":"Medium","difficulty":"Medium","timeframe":"1-3 months","confidence":"Prototype scenario estimate"},
+  {"id":"traffic_calming","name":"Rumble Strips / Traffic Calming","factors":["overspeeding","junction risk"],"effectiveness":0.22,"cost":"Medium","difficulty":"Medium","timeframe":"1-3 months","confidence":"Prototype scenario estimate"},
+  {"id":"junction_audit","name":"Signal Optimization","factors":["junction risk","traffic"],"effectiveness":0.18,"cost":"Medium","difficulty":"Medium","timeframe":"1-3 months","confidence":"Prototype scenario estimate"}
+]

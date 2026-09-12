@@ -1,190 +1,104 @@
-# Road Safety Intelligence Network API
+# RoadPulse AI
 
-Transform roads from danger zones into safe, predictable infrastructure by creating a worldwide road safety intelligence network that prevents accidents before they occur through AI-powered predictive analytics.
+**Predict. Explain. Prevent. Prioritize.**
 
-## Product Vision
+RoadPulse AI is a road-safety intelligence application for analysing official Indian road-accident data at the geographic granularity actually supplied by the source. The production data path is official State/UT annual data from the Open Government Data Platform India. The application does not invent road names, coordinates, hourly patterns, causes, or road-user categories when the loaded source does not contain them.
 
-This application provides a comprehensive backend API for managing road safety incidents, performing predictive analytics, and generating safety reports. It serves traffic authority managers, urban planners, emergency response coordinators, and insurance companies.
+## Data policy
 
-## Target Audience
+Official mode is the default. The application refuses to load `data/demo_accidents.csv` unless `ALLOW_DEMO_DATA=true` is explicitly set. With no official file present, `/health` reports `data_unavailable`, `/api/data/status` explains the missing file, and analytics endpoints return HTTP 503 rather than silently showing synthetic results.
 
-**Primary Users:**
-- Traffic authority managers
-- Urban planners
-- Emergency response coordinators
-- Insurance companies
+The official catalog currently configured is:
 
-**Secondary Users:**
-- Commuters (through mobile applications)
+- [State/UT-wise Total Number of Road Accidents in India from 2016 to 2019](https://www.data.gov.in/resource/stateut-wise-total-number-road-accidents-india-2016-2019), Ministry of Road Transport and Highways, annual State/UT granularity.
+- [Road Accidents in India 2019](https://www.data.gov.in/catalog/road-accidents-india-2019), Ministry of Road Transport and Highways.
+- [ADSI 2023](https://www.data.gov.in/catalog/accidental-deaths-suicides-india-adsi-2023), National Crime Records Bureau.
 
-## Core Features
+Source metadata is stored in `data/metadata/sources.json`. Raw government files are never modified. Processed outputs include provenance columns such as `source_name`, `source_url`, `source_year`, and `source_granularity`.
 
-- **Incident Management**: Create, read, update, and delete road incident reports
-- **Analytics**: AI-powered risk analysis and predictive severity assessment
-- **Safety Reports**: Generate comprehensive safety reports for specific areas and time periods
+## Load official data
 
-## Technology Stack
+Option A, manual download:
 
-- **Framework**: FastAPI 0.104.1
-- **Database**: SQLite (SQLAlchemy ORM)
-- **Python**: 3.9+
-- **Architecture**: Modular Monolith
+1. Download the official State/UT CSV from the MoRTH data.gov.in resource.
+2. Save it as `data/raw/morth_accidents.csv`.
+3. Run:
 
-## Prerequisites
-
-- Python 3.9 or higher
-- pip (Python package manager)
-
-## Installation
-
-1. **Clone the repository** (or navigate to the project directory)
-
-2. **Create a virtual environment**:
-   ```bash
-   python -m venv venv
-   ```
-
-3. **Activate the virtual environment**:
-   - On Linux/Mac:
-     ```bash
-     source venv/bin/activate
-     ```
-   - On Windows:
-     ```bash
-     venv\Scripts\activate
-     ```
-
-4. **Install dependencies**:
-   ```bash
-   pip install -r backend/requirements.txt
-   ```
-
-5. **Set up environment variables**:
-   ```bash
-   cp .env.example .env
-   ```
-   
-   Edit `.env` and set your configuration values, especially:
-   - `SECRET_KEY`: Generate a secure random string for production
-   - `DATABASE_URL`: Database connection string (default: SQLite)
-
-## Running the Application
-
-### Development Mode
-
-```bash
-python -m backend.main
+```powershell
+.\.venv\Scripts\activate
+python -m backend.data_pipeline.process_data
+python -m backend.data_pipeline.inspect_data
 ```
 
-Or using uvicorn directly:
+Option B, configured API download:
 
-```bash
+```powershell
+$env:DATA_GOV_API_KEY="your-key"
+$env:DATA_GOV_RESOURCE_ACCIDENTS="resource-id-from-data.gov.in"
+python -m backend.data_pipeline.download_data
+python -m backend.data_pipeline.process_data
+```
+
+The API key and resource IDs are environment variables only. They are not committed. Cause and transport datasets can be configured with `DATA_GOV_RESOURCE_CAUSES` and `DATA_GOV_RESOURCE_TRANSPORT`; if they are absent, the UI reports those analyses as unavailable instead of fabricating them.
+
+## Run locally
+
+```powershell
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r backend\requirements.txt
 uvicorn backend.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-The API will be available at: `http://localhost:8000`
+In a second terminal:
 
-### Initialize Database
-
-The database tables will be created automatically on first run. To manually initialize:
-
-```python
-from backend.database import init_db
-init_db()
+```powershell
+cd frontend
+npm install
+npm run dev
 ```
 
-## API Documentation
+Open `http://localhost:5173`. API documentation is at `http://localhost:8000/docs`.
 
-Once the application is running, access the interactive API documentation:
+## Pipeline
 
-- **Swagger UI**: http://localhost:8000/docs
-- **ReDoc**: http://localhost:8000/redoc
+- `backend/data_pipeline/download_data.py` caches configured official data.gov.in API downloads and records retrieval status.
+- `backend/data_pipeline/inspect_data.py` writes `data/metadata/data_profile.json` with rows, columns, types, missing values, and granularity.
+- `backend/data_pipeline/normalize.py` handles common official column aliases and wide State/UT year tables.
+- `backend/data_pipeline/validate.py` checks negative measures, invalid years, missing states, and duplicates.
+- `backend/data_pipeline/process_data.py` writes `data/processed/state_year_summary.csv` without changing raw files.
+- `backend/services/official_service.py` calculates State/UT risk and annual trend analytics from processed official data.
 
-## API Endpoints
+## Official-data API
 
-### Health Check
-- `GET /` - Root endpoint
-- `GET /health` - Health check endpoint
+- `GET /health`
+- `GET /api/data/status`
+- `GET /api/data/sources`
+- `GET /api/dashboard/summary`
+- `GET /api/regions` and `GET /api/locations` compatibility response
+- `GET /api/regions/{id}/risk`, `/causes`, `/vulnerability`, `/trend`, `/prediction`, `/interventions`
+- `GET /api/locations/{id}` compatibility response
+- `POST /api/simulate`
+- `GET /api/action-plan`
+- `GET /api/model/metrics`
 
-### Incidents
-- `POST /api/v1/incidents/` - Create a new incident
-- `GET /api/v1/incidents/` - List all incidents (with filters)
-- `GET /api/v1/incidents/{incident_id}` - Get specific incident
-- `PUT /api/v1/incidents/{incident_id}` - Update incident
-- `DELETE /api/v1/incidents/{incident_id}` - Delete incident
+State-level official data is shown as State/UT intelligence. The application does not render road-segment markers when the source has no coordinates. If the source is annual, hourly and monthly views are omitted.
 
-### Analytics
-- `POST /api/v1/analytics/` - Create analytics for an incident
-- `GET /api/v1/analytics/incident/{incident_id}` - Get incident analytics
-- `GET /api/v1/analytics/risk-analysis` - Get overall risk analysis
-- `DELETE /api/v1/analytics/{analytics_id}` - Delete analytics
+## Risk methodology
 
-### Reports
-- `POST /api/v1/reports/` - Create a safety report
-- `GET /api/v1/reports/` - List all reports (with filters)
-- `GET /api/v1/reports/{report_id}` - Get specific report
-- `DELETE /api/v1/reports/{report_id}` - Delete report
+The State/UT score uses only available measurable fields. Available components include accident frequency, fatalities, injuries, fatality rate, and historical trend. Components are normalized across the loaded State/UT records and exposed in the API. Risk levels are Low `0-24`, Medium `25-49`, High `50-74`, and Critical `75-100`.
 
-## Project Structure
+## Prediction and simulation
 
-```
-.
-├── backend/
-│   ├── main.py              # Main application entry point
-│   ├── config.py            # Configuration management
-│   ├── models.py            # Database models
-│   ├── database.py          # Database connection and session
-│   ├── requirements.txt     # Python dependencies
-│   └── routers/
-│       ├── incidents.py     # Incident management endpoints
-│       ├── analytics.py     # Analytics endpoints
-│       └── reports.py       # Report generation endpoints
-├── .env.example             # Environment variables template
-└── README.md                # This file
+Prediction falls back to a clearly labelled `Historical Trend Forecast` when annual State/UT history is insufficient for chronological ML validation. No accuracy or causal claim is invented. Intervention effects are planning assumptions only. The simulator labels outputs `SCENARIO-BASED ESTIMATE` and separates observed official data from assumed effectiveness.
+
+## Explicit demo mode
+
+For local UI work only, synthetic data can be enabled explicitly:
+
+```powershell
+$env:ALLOW_DEMO_DATA="true"
+uvicorn backend.main:app --reload --port 8000
 ```
 
-## Environment Variables
-
-| Variable | Description | Default |
-|----------|-------------|---------|
-| `APP_NAME` | Application name | Road Safety Intelligence Network |
-| `DEBUG` | Debug mode | False |
-| `HOST` | Server host | 0.0.0.0 |
-| `PORT` | Server port | 8000 |
-| `DATABASE_URL` | Database connection string | sqlite:///./road_safety.db |
-| `SECRET_KEY` | Secret key for JWT tokens | (required) |
-| `ALLOWED_ORIGINS` | CORS allowed origins | ["http://localhost:3000"] |
-
-## Security
-
-- JWT-based authentication ready (implement as needed)
-- Password hashing with bcrypt
-- CORS configuration
-- Input validation with Pydantic
-- SQL injection prevention through SQLAlchemy ORM
-
-## Development
-
-### Adding New Features
-
-1. Create new models in `backend/models.py`
-2. Create new routers in `backend/routers/`
-3. Register routers in `backend/main.py`
-4. Update this README with new endpoints
-
-### Database Migrations
-
-For production, consider using Alembic for database migrations:
-
-```bash
-pip install alembic
-alembic init alembic
-```
-
-## License
-
-Proprietary - All rights reserved
-
-## Support
-
-For issues and questions, contact the development team.
+Synthetic values must not be described as government data or used as official analysis.

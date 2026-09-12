@@ -1,0 +1,408 @@
+state,year,road_category,accidents,source_file,source_type,source_name,source_url,source_year,source_granularity
+Agra,2019,T-Junction,71.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,T-Junction,187.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,T-Junction,130.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,T-Junction,6.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,T-Junction,52.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,T-Junction,71.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,T-Junction,786.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,T-Junction,362.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,T-Junction,5.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,T-Junction,135.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,T-Junction,481.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,T-Junction,717.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,T-Junction,56.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,T-Junction,7.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,T-Junction,52.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,T-Junction,230.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,T-Junction,286.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,T-Junction,916.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,T-Junction,962.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,T-Junction,348.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,T-Junction,59.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,T-Junction,76.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,T-Junction,109.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,T-Junction,54.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,T-Junction,344.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,T-Junction,411.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,T-Junction,485.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,T-Junction,621.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,T-Junction,47.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,T-Junction,250.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,T-Junction,4.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,T-Junction,52.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,T-Junction,240.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,T-Junction,76.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,T-Junction,38.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,T-Junction,120.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,T-Junction,80.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,T-Junction,55.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,T-Junction,237.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,T-Junction,581.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,T-Junction,35.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,T-Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,T-Junction,96.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,T-Junction,261.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,T-Junction,413.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,T-Junction,1.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,T-Junction,33.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,T-Junction,64.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,T-Junction,509.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,T-Junction,267.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,T-Junction,11478.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,T-Junction,31.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,T-Junction,22.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,T-Junction,24.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,T-Junction,46.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,T-Junction,38.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,T-Junction,31.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,T-Junction,3.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,T-Junction,12.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,T-Junction,47.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,T-Junction,23.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,T-Junction,9.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,T-Junction,4.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,T-Junction,35.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,T-Junction,45.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,T-Junction,38.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,T-Junction,21.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,T-Junction,15.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,T-Junction,2.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,T-Junction,1.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,T-Junction,13.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,T-Junction,34.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,T-Junction,29.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,T-Junction,26.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,T-Junction,37.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,T-Junction,14.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,T-Junction,11.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,T-Junction,8.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,T-Junction,5.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,T-Junction,41.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,T-Junction,18.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,T-Junction,48.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,T-Junction,38.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,T-Junction,19.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,T-Junction,29.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,T-Junction,42.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,T-Junction,25.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,T-Junction,28.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,T-Junction,36.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,T-Junction,20.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,T-Junction,6.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,T-Junction,43.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,T-Junction,50.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,T-Junction,27.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,T-Junction,17.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,T-Junction,10.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,T-Junction,49.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,T-Junction,44.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,T-Junction,33.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,T-Junction,7.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,T-Junction,16.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,Y-Junction,85.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,Y-Junction,74.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,Y-Junction,113.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,Y-Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,Y-Junction,9.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,Y-Junction,6.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,Y-Junction,217.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,Y-Junction,346.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,Y-Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,Y-Junction,62.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,Y-Junction,221.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,Y-Junction,354.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,Y-Junction,50.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,Y-Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,Y-Junction,10.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,Y-Junction,160.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,Y-Junction,165.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,Y-Junction,868.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,Y-Junction,495.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,Y-Junction,73.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,Y-Junction,51.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,Y-Junction,38.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,Y-Junction,36.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,Y-Junction,33.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,Y-Junction,54.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,Y-Junction,90.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,Y-Junction,286.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,Y-Junction,113.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,Y-Junction,19.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,Y-Junction,136.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,Y-Junction,4.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,Y-Junction,11.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,Y-Junction,134.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,Y-Junction,68.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,Y-Junction,26.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,Y-Junction,59.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,Y-Junction,6.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,Y-Junction,35.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,Y-Junction,110.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,Y-Junction,59.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,Y-Junction,2.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,Y-Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,Y-Junction,27.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,Y-Junction,137.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,Y-Junction,237.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,Y-Junction,18.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,Y-Junction,10.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,Y-Junction,41.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,Y-Junction,109.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,Y-Junction,140.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,Y-Junction,5397.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,Four arm Junction,114.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,Four arm Junction,247.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,Four arm Junction,181.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,Four arm Junction,3.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,Four arm Junction,19.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,Four arm Junction,64.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,Four arm Junction,819.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,Four arm Junction,208.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,Four arm Junction,53.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,Four arm Junction,52.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,Four arm Junction,465.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,Four arm Junction,801.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,Four arm Junction,16.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,Four arm Junction,101.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,Four arm Junction,138.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,Four arm Junction,359.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,Four arm Junction,134.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,Four arm Junction,577.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,Four arm Junction,624.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,Four arm Junction,368.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,Four arm Junction,34.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,Four arm Junction,50.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,Four arm Junction,19.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,Four arm Junction,31.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,Four arm Junction,131.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,Four arm Junction,250.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,Four arm Junction,223.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,Four arm Junction,145.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,Four arm Junction,34.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,Four arm Junction,146.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,Four arm Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,Four arm Junction,56.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,Four arm Junction,48.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,Four arm Junction,95.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,Four arm Junction,125.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,Four arm Junction,24.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,Four arm Junction,86.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,Four arm Junction,25.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,Four arm Junction,100.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,Four arm Junction,364.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,Four arm Junction,116.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,Four arm Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,Four arm Junction,62.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,Four arm Junction,162.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,Four arm Junction,143.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,Four arm Junction,20.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,Four arm Junction,51.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,Four arm Junction,57.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,Four arm Junction,267.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,Four arm Junction,277.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,Four arm Junction,8484.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,Staggered Junction,101.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,Staggered Junction,101.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,Staggered Junction,116.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,Staggered Junction,3.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,Staggered Junction,71.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,Staggered Junction,553.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,Staggered Junction,806.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,Staggered Junction,13.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,Staggered Junction,455.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,Staggered Junction,462.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,Staggered Junction,22.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,Staggered Junction,24.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,Staggered Junction,108.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,Staggered Junction,1909.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,Staggered Junction,71.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,Staggered Junction,319.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,Staggered Junction,48.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,Staggered Junction,25.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,Staggered Junction,23.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,Staggered Junction,136.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,Staggered Junction,9.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,Staggered Junction,144.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,Staggered Junction,133.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,Staggered Junction,68.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,Staggered Junction,10.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,Staggered Junction,2.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,Staggered Junction,57.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,Staggered Junction,43.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,Staggered Junction,2.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,Staggered Junction,24.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,Staggered Junction,66.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,Staggered Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,Staggered Junction,69.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,Staggered Junction,123.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,Staggered Junction,115.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,Staggered Junction,235.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,Staggered Junction,30.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,Staggered Junction,38.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,Staggered Junction,61.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,Staggered Junction,105.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,Staggered Junction,6700.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,Round about Junction,91.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,Round about Junction,179.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,Round about Junction,103.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,Round about Junction,4.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,Round about Junction,8.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,Round about Junction,5.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,Round about Junction,331.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,Round about Junction,205.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,Round about Junction,13.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,Round about Junction,10.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,Round about Junction,540.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,Round about Junction,339.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,Round about Junction,27.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,Round about Junction,2.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,Round about Junction,33.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,Round about Junction,37.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,Round about Junction,406.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,Round about Junction,655.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,Round about Junction,67.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,Round about Junction,80.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,Round about Junction,22.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,Round about Junction,34.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,Round about Junction,5.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,Round about Junction,241.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,Round about Junction,6.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,Round about Junction,10.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,Round about Junction,91.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,Round about Junction,7.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,Round about Junction,41.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,Round about Junction,54.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,Round about Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,Round about Junction,5.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,Round about Junction,17.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,Round about Junction,60.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,Round about Junction,22.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,Round about Junction,36.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,Round about Junction,17.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,Round about Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,Round about Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,Round about Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,Round about Junction,74.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,Round about Junction,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,Round about Junction,49.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,Round about Junction,26.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,Round about Junction,12.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,Round about Junction,53.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,Round about Junction,18.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,Round about Junction,31.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,Round about Junction,56.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,Round about Junction,51.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,Round about Junction,4173.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,Others,623.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,Others,587.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,Others,770.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,Others,117.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,Others,287.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,Others,414.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,Others,1978.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,Others,1360.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,Others,221.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,Others,803.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,Others,4709.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,Others,2937.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,Others,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,Others,579.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,Others,633.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,Others,1215.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,Others,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,Others,296.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,Others,930.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,Others,3354.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,Others,0.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,Others,896.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,Others,488.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,Others,1012.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,Others,1053.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,Others,1385.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,Others,1282.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,Others,986.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,Others,643.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,Others,1099.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,Others,535.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,Others,740.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,Others,2123.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,Others,600.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,Others,2618.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,Others,768.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,Others,362.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,Others,385.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,Others,344.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,Others,1142.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,Others,282.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,Others,310.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,Others,642.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,Others,1286.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,Others,1290.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,Others,190.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,Others,537.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,Others,379.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,Others,493.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,Others,866.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,Others,46549.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Agra,2019,Total,1085.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ahmedabad,2019,Total,1375.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Allahabad(Prayagraj),2019,Total,1413.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Amritsar,2019,Total,133.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Asansol Durgapur,2019,Total,446.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Aurangabad,2019,Total,560.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bengaluru,2019,Total,4684.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Bhopal,2019,Total,3287.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chandigarh,2019,Total,305.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Coimbatore,2019,Total,1062.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Chennai,2019,Total,6871.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Delhi,2019,Total,5610.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Dhanbad,2019,Total,171.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Faridabad,2019,Total,689.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ghaziabad,2019,Total,890.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Gwalior,2019,Total,2109.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Hyderabad,2019,Total,2900.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Indore,2019,Total,3383.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jabalpur,2019,Total,3397.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jaipur,2019,Total,4271.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jamshedpur,2019,Total,191.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Jodhpur,2019,Total,1117.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kannur,2019,Total,657.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kanpur,2019,Total,1507.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Khozikode,2019,Total,1597.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kochi,2019,Total,2290.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kolkata,2019,Total,2500.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kollam,2019,Total,1940.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Kota,2019,Total,784.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Lucknow,2019,Total,1685.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Ludhiana,2019,Total,553.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Madurai,2019,Total,866.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mallapuram,2019,Total,2562.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Meerut,2019,Total,956.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Mumbai,2019,Total,2872.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nagpur,2019,Total,1007.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Nashik,2019,Total,553.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Patna,2019,Total,524.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Pune,2019,Total,791.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Raipur,2019,Total,2146.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Rajkot,2019,Total,575.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Srinagar,2019,Total,310.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Surat,2019,Total,945.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thiruvanthapuram,2019,Total,1995.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Thrissur,2019,Total,2210.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Tiruchirapalli,2019,Total,517.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vadodra,2019,Total,679.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Varanasi,2019,Total,610.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vijaywada city,2019,Total,1495.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Vizaq,2019,Total,1706.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
+Total,2019,Total,82781.0,RA2019_A49.csv,road_classification,Official Government CSV,https://www.data.gov.in/catalog/road-accidents-india-2019,2019,State/UT
